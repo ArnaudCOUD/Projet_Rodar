@@ -1,0 +1,1 @@
+Installer Raspberry Pi OS (Legacy) Lite, Debian version: 11(bullseye)
